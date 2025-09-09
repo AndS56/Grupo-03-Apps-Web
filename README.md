@@ -1,6 +1,6 @@
 # Informe de Proyecto Final  
 
-![universidad-peruana-de-ciencias-aplicadas-upc-logo-png_seeklogo-402620](universidad-peruana-de-ciencias-aplicadas-upc-logo-png_seeklogo-402620.png)
+![UPC](img/commons/universidad-peruana-de-ciencias-aplicadas-upc-logo-png_seeklogo-402620.png)
 
 ## Capítulo I: Introducción  
 ### 1.1 Startup Profile  
