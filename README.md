@@ -84,14 +84,14 @@
   - [2.3.2. User Task Matrix](#232-user-task-matrix)
   - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-- [2.4. Big Picture Event Storning](#24-empathy-mapping)
-- [2.5. Ubiquitous Language]
+- [2.4. Big Picture Event Storning](#24-big-picture-event-storning)
+- [2.5. Ubiquitous Language](#25-ubiquitous-language)
 - 
 ### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
-- [3.1. User Stories](#32-user-stories)
-- [3.2. Impact Mapping](#33-impact-mapping)
-- [3.3. Product Backlog](#34-product-backlog)
+- [3.1. User Stories](#31-user-stories)
+- [3.2. Impact Mapping](#32-impact-mapping)
+- [3.3. Product Backlog](#33-product-backlog)
 
 ### [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
 
@@ -114,10 +114,10 @@
   - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Design-Level Event Storming]
-  - [4.6.2. Software Architecture Context Diagram]
-  - [4.6.3. Software Architecture Container Diagrams]
-  - [4.6.4. Software Architecture Components Diagrams]
+  - [4.6.1. Design-Level Event Storming](#461-design-Level-event-storming)
+  - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
+  - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
+  - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
@@ -133,18 +133,18 @@
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
   - [5.2.1. Sprint 1](#521-sprint-1)
     - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2.Aspect Leaders and Collaborators]
-    - [5.2.1.3. Sprint Backlog 1]
-    - [5.2.1.4. Development Evidence for Sprint Review]
-    - [5.2.1.5. Execution Evidence for Sprint Review]
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review]
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review]
-    - [5.2.1.8. Team Collaboration Insights during Sprint](
+    - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas]
-    - [5.3.2. Registro de Entrevistas]
-    - [5.3.3. Evaluaciones según heurísticas]
-    - [5.4. Video About-the-Product] 
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About the Product](#534-Video-about-the-product)
 
 <br><br>
 # Student Outcome
@@ -218,21 +218,19 @@
 
 ### 2.3.4. Empathy Mapping
 
-### 2.3.5. As-is Scenario Mapping
+## 2.4. Big Picture Event Storning
 
-## 2.4. Ubiquitous Language
+## 2.5. Ubiquitous Language
 
 <br><br>
 
 # Capítulo III: Requirements Specification
 
-## 3.1. To-Be Scenario Mapping
+## 3.1. User Stories
 
-## 3.2. User Stories
+## 3.2. Impact Mapping
 
-## 3.3. Impact Mapping
-
-## 3.4. Product Backlog
+## 3.3. Product Backlog
 
 <br><br>
 
@@ -276,11 +274,13 @@
 
 ## 4.6. Domain-Driven Software Architecture
 
-### 4.6.1. Software Architecture Context Diagram
+### 4.6.1. Design-Level Event Storming
 
-### 4.6.2. Software Architecture Container Diagrams
+### 4.6.2. Software Architecture Context Diagram
 
-### 4.6.3. Software Architecture Components Diagrams
+### 4.6.3. Software Architecture Container Diagrams
+
+### 4.6.4. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
 
@@ -312,11 +312,11 @@
 
 #### 5.2.1.1. Sprint Planning 1
 
-#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.2. Aspect Leaders and Collaborators
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Sprint Backlog 1
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Development Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
