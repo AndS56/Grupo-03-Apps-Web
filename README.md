@@ -86,7 +86,7 @@
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
 - [2.4. Big Picture Event Storning](#24-big-picture-event-storning)
 - [2.5. Ubiquitous Language](#25-ubiquitous-language)
-- 
+ 
 ### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
 - [3.1. User Stories](#31-user-stories)
