@@ -35,7 +35,6 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
-| TB1 | 11/09 | Andree | Capitulo I y su descripción |
 
 </div>
 
