@@ -1,22 +1,43 @@
-# Informe de Proyecto Finallll  
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 ![UPC](img/commons/universidad-peruana-de-ciencias-aplicadas-upc-logo-png_seeklogo-402620.png)
 
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2025 - 2 </h3>
+
+
 # Informe del Trabajo Final (TB1)  
 
-**Universidad Peruana de Ciencias Aplicadas**  
-**Facultad de Ingeniería – Open Source**  
-Sección: 7452  
-Profesor: Hugo Allan Mori Paiva  
+<h3 align="center"> Aplicaciones Web</h3>
+<h3 align="center"> Sección: 7452  </h3>
+<h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
+<h3> Startup: DaL Company </h3>
+<h3> Product: BusTrack </h3>
+<div align="center">
 
----
+| Member                           |    Code    |
+| :------------------------------- | :--------: |
+|  |  |
+| Mathias Andree Cardenas Huaman | U202316353 |
+| Elizabeth Noelia Apaza Bocanegra | U20231c197 |
+| Diego Andres Avalos Cordova    | U202313922 |
+|  |  |
 
-## Proyecto: **BusTrack**  
+</div>
 
-**Integrantes:**  
+<h3 align="center">Septiembre, 2025</h3>
 
+<br><br>
 
----
+# Registro de Versiones del Informe
+
+<div align="center">
+
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-----: | :---: | :---: | :-------------------------- |
+| TB1 | 11/09 | Andree | Capitulo I y su descripción |
+
+</div>
 
 # Capítulo I: Introducción  
 
